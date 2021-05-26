@@ -1,7 +1,7 @@
 package mboxparser
 
 import (
-	"github.com/blabber/mbox"
+	mbox "github.com/emersion/go-mbox"
 	"io"
 	"os"
 )
